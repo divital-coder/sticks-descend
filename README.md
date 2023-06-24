@@ -14,7 +14,9 @@ This project was apparently embraced graciously by the meme community all over y
 Note: the following stuff is about the sound-of-sorting github repository.
 **********************************************************
 (how to run the https://github.com/bingmann/sound-of-sorting.git project)
+******************************************************************
 🔴 warning: THE BELOW MENTIONED STEPS ARE NOT FOR THIS REPO! DONT WASTE UR TIME :) 🔴
+***********************************************************************
 To run it all you gotta do is clone the repo. Run 
 ./configure 
 Read the configure logs, if it says something is not installed, try installing just that.
