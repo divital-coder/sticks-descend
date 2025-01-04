@@ -12,3 +12,11 @@ git add . [for adding changes to the buffer]
 git commit -m "text"
 git push origin [branchname]
 
+
+In case your contribution chart is not updating after recent commits, run :
+git config --global user.name "divital-coder"
+git config --global user.email divital2004@gmail.com
+
+then:
+git commit --amend --reset-author
+
